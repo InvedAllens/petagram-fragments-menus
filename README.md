@@ -8,6 +8,7 @@
 - Los ultimos 5 elementos que se les ha dado "like" se muestran en una actividad de favoritos
 - Modularizacion en fragments en la actividad principal
 - Envio de mail con la libreria jmail
+- Uso de menus
 <br/>
 				<img src="https://github.com/InvedAllens/petagram-fragments-menus/blob/master/Screenshots/Screenshot2.jpg" alt="drawing" width="300"/>
 <br/>
